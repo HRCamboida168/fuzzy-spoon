@@ -3,3 +3,6 @@ https://hkwcas02.fp.manulife.hk/Version_Control/REGIONAL/AUW_KH/SIT
 this test for new work learning
 
 I am trying to change this file for learning Github
+
+-------------------------------------
+New local change ******
